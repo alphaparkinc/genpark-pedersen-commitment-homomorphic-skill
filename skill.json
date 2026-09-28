@@ -1,0 +1,9 @@
+{
+  "name": "genpark-pedersen-commitment-homomorphic-skill",
+  "version": "1.0.0",
+  "description": "Homomorphic cryptographic Pedersen commitments with blinding factors and additive verification",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
