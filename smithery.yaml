@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-pedersen-commitment-homomorphic-skill
+service:
+  name: genpark-pedersen-commitment-homomorphic-skill
+  command: python
+  args:
+    - mcp_server.py
